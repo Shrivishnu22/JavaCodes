@@ -123,19 +123,19 @@ class Movie{
 	}
 	
 	public void setName(String str) {
-		name=str;
+		this.name=str;
 	}
 	
 	public void setCompany(String str) {
-		company=str;
+		this.company=str;
 	}
 	
 	public void setGenre(String str) {
-		genre=str;
+		this.genre=str;
 	}
 	
 	public void setBudget(int n) {
-		budget=n;
+		this.budget=n;
 	}
 	
 }
